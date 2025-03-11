@@ -1,1 +1,1 @@
-default_docker_enviroment_manager(input('docker img : '))
+default_docker_environment_manager(input('docker img : '))
