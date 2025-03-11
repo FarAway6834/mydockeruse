@@ -2,14 +2,14 @@ from setuptools import setup, find_packages
 
 setup(
     name='mydockeruse',
-    version='0.0.1',
+    version='0.0.2',
     description='mydockeruse tool',
     author='du7ec',
     author_email='dutec6834@gmail.com',
     url='https://github.com/FarAway6834/mydockeruse',
     packages=find_packages(exclude=[]),
-    install_requires=['mytoolset'],
-    keywords=['mydockeruse', 'mydockeruse tool', 'mytoolset'],
+    install_requires=['mytool4docker'],
+    keywords=['mydockeruse', 'mydockeruse tool', 'mytool4docker'],
     python_requires='>=3.4',
     package_data={},
     classifiers=[
