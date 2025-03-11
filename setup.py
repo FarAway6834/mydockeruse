@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='mydockeruse',
-    version='0.0.3',
+    version='0.0.1',
     description='mydockeruse tool',
     author='du7ec',
     author_email='dutec6834@gmail.com',
