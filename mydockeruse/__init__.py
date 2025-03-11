@@ -1,4 +1,4 @@
-__all__, __version__ = ['__main__', 'install', 'uninstall'], '0.0.3'
+__all__, __version__ = ['__main__', 'install', 'uninstall'], '0.0.4'
 from docker import from_env as _docker_
 from martialaw.martialaw import martialaw as _clsr
 import builtins as __builtin__
