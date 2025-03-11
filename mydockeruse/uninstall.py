@@ -1,1 +1,1 @@
-default_docker_enviroment_manager.uninstall(input('docker img : '))
+default_docker_environment_manager.uninstall(input('docker img : '))
